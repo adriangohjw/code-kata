@@ -1,0 +1,1 @@
+Refer to https://github.com/emilybache/GildedRose-Refactoring-Kata for more information
